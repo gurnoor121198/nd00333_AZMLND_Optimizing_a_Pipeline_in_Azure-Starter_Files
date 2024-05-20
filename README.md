@@ -62,5 +62,6 @@ We need more data to improve the accuracy of the model.
 
 ## Proof of cluster clean up
 ![
-    
+    <img width="1700" alt="Screenshot 2024-05-20 at 5 17 23 PM" src="https://github.com/gurnoor121198/nd00333_AZMLND_Optimizing_a_Pipeline_in_Azure-Starter_Files/assets/62958740/6a89dbef-af90-47c0-8c7a-9938819971e8">
+
 ](image.png)
