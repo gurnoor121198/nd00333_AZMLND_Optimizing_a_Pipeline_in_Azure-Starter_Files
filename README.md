@@ -51,8 +51,8 @@ The best performaing model was a automl voting Ensemble algorithm , combines pre
 
 
 ## Pipeline comparison
-Auto ml accuracy- 91.26% hyper values?
-Scikit-learn accuracy- 91.22% Hyper parameters- {"C": 0.33333355875405135, "max_iter": 500}
+Auto ml accuracy- 91.26%
+Scikit-learn accuracy- 91.23%
 Automl outperformed Scikit-learn pipeline. 
 
 ## Future work
